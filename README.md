@@ -6,4 +6,6 @@
   This project is part of hackthon on machinehack.com. I scored 0.95924 on leaderbord.
   
 ## Model Architecture
-  
+<h3>
+  <img src="https://github.com/Mann1904/Predict-The-News-Category/blob/main/architecture.JPG" width="500">
+</h3>  
